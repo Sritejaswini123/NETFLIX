@@ -1,6 +1,8 @@
 FEATURES:
 Netflix home page
         -sign in page
+         -signup form
+         
          -email and password 
          redirect to browse page 
 BROWSER  (after authernatication)
