@@ -2,8 +2,9 @@ FEATURES:
 Netflix home page
         -sign in page
          -signup form
-         
          -email and password 
+           form   validation 
+           useref hook 
          redirect to browse page 
 BROWSER  (after authernatication)
     - HEADER
